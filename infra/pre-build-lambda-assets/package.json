@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"dependencies": {
+		"aws-serverless-express": "^3.4.0",
+		"polka": "^0.5.2"
+	}
+}
